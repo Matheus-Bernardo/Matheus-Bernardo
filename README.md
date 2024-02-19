@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Matheus-Bernardo
-- 👀 I’m interested in learning current tecnnologies and code studies
+- 👀 I am interested in Backend technologies, such as Java and NodeJs, and I venture into FrontEnd
 - 💞️ I Want to collaborate by sharing my knowledge and learning through available codes
 - 📫 Contact: matheus.mh@ges.inatel.br and matheus.bernardo@inatel.br
 
