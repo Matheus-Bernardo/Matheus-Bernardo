@@ -2,7 +2,7 @@
 - 👀 I am interested in Backend technologies, such as Java and NodeJs, and I venture into FrontEnd
 - 💞️ I Want to collaborate by sharing my knowledge and learning through available codes
 - 📫 Contact: matheus.mh@ges.inatel.br and matheus.bernardo@inatel.br
-- 📫 Youtube: https://www.youtube.com/@matheusbernardo6398/videos
+
 
 <div>
 <a href="https://github.com/Matheus-Bernardo">
